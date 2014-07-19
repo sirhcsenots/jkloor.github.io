@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Welcome</title>
+</head>
+<p><script type="text/javascript">
+function rolloverMenu(showHide, menu)
+{
+    var linkObj = document.getElementById('mainLink');
+    var menuObj = document.getElementById(menu);
+    if (showHide == 0)
+    {
+        menuObj.style.display = 'none';
+        linkObj.setAttribute('class', 'mainNav');
+        linkObj.setAttribute('className', 'mainNav');
+    }
+    else
+    {
+        menuObj.style.display = 'block';
+        linkObj.setAttribute('class', 'selectedRollover');
+        linkObj.setAttribute('className', 'selectedRollover');
+    }
+}
+</script></p>
+<link href="style.css" rel="stylesheet" type="text/css">
+<center>
+<body>
+<p><a href="index.html"><img src="/Media/Title_k_mobile.jpg" width="980" height="340" /></a></p>
+<table width="980" border="0" bgcolor="#84110B">
+  <tr>
+    <th width="245" scope="col">
+  <div id="container">
+  <a class="mainNav" href="professional.html" id="mainLink" onmouseover="rolloverMenu(1, 'mainMenu');" onmouseout="rolloverMenu(0, 'mainMenu');"><mobile>Films</mobile></a>
+  <div class="rolloverMenu" id="mainMenu" style="display: none;" onmouseover="rolloverMenu(1, 'mainMenu');" onmouseout="rolloverMenu(0, 'mainMenu');">
+    <a href="professional.html"><u>Professional</u></a><br />
+    <a href="recreation.html"><u>Recreation</u></a><br />
+    <a href="commercial.html"><u>Commercial</u></a>
+  </div>
+</div>
+  <div align="center"></div>
+    </th>
+    <th width="245" scope="col"><a href="about.html"><mobile>About</mobile></a></th>
+    <th width="245" scope="col"><a href="contact_form.html"><mobile>Contact</mobile></a></th>
+    <th width="245" scope="col"><div align="center"><a href="index.html"><mobile>Home</mobile></a></div></th>
+  </tr>
+</table>
+<center>
+<table width="940" height="135" border="0">
+  <tr>
+    <th width="429" scope="col"><div align="center">
+      <default>
+        <p>Welcome to Koala Tea Films. With every adventure comes the memories of the experience. From the first steps down the aisle, the first push through a rapid, or the first step on a new trail we will be there to eternalize it.</p>
+</default></div></th>
+<th width="511" scope="col"><iframe src="http://player.vimeo.com/video/36051675" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/36051675">Paper Bag</a> from <a href="http://vimeo.com/user2104553">Koala Tea Films</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+  </tr>
+</table>
+<div align="center">
+<hr />
+<p><font color="#999999">&copy; Koala Tea Films 2013 </font></p>
+<center>
+</body>
+</html>
