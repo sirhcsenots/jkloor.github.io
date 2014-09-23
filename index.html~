@@ -92,9 +92,23 @@
     <tr>  
     <th valign="bottom" align="center"><a href="demian.html">Demian: Herman Hesse</a></p>
       <p><a href="demian.html"><img src="Media/demian.jpg" width="111" height="167" /></a></p></th>
-    <th valign="top" align="center">&nbsp;</th>
-    <th valign="top" align="center">&nbsp;</th> 
+    <th valign="bottom" align="center"><a href="ishmael.html">Ishmael: Daniel Quinn </a></p>
+      <p><a href="ishmael.html"><img src="Media/DanielQuinn_Ishmael.jpg" width="111" height="167" /></a></p></th>
+   <th valign="bottom" align="center"><a href="anathem.html">Anathem: Neal Stephenson </a></p>
+      <p><a href="anathem.html"><img src="Media/anathem.jpg" width="111" height="167" /></a></p></th>
     </tr> 
+    <tr>
+    <th valign="bottom" align="center"><a href="titan.html">Titan: John Varley </a></p>
+      <p><a href="titan.html"><img src="Media/JohnVarley_Titan.jpg" width="111" height="167" /></a></p></th>
+    <th valign="bottom" align="center"><a href="circuit.html">The Circuit: Francisco Jiminez </a></p>
+      <p><a href="circuit.html"><img src="Media/circuit.jpg" width="111" height="167" /></a></p></th>
+    <th valign="top" align="center">&nbsp;</th>
+  </tr>
+   <th valign="bottom" align="center"><a href="sex_for_one.html">Sex for One: Betty Dodson </a></p>
+      <p><a href="sex_for_one.html"><img src="Media/sex_for_one.jpg" width="111" height="167" /></a></p></th>
+    <th valign="bottom" align="center"><a href="lost_explorer.html">The Lost Explorer: Conrad Anker </a></p>
+      <p><a href="lost_explorer.html"><img src="Media/lost_explorer.jpg" width="111" height="167" /></a></p></th>
+    <th valign="top" align="center">&nbsp;</th>
   <!-- <tr>
     <th valign="top" align="center">&nbsp;</th>
     <th valign="top" align="center">&nbsp;</th>
