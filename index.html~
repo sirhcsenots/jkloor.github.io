@@ -134,6 +134,13 @@
     <th valign="bottom" align="center"><a href="fahrenheit_451.html">Fahrenheit 451: Ray Bradbury </a></p>
       <p><a href="fahrenheit_451.html"><img src="Media/fahrenheit_451.jpg" width="111" height="167" /></a></p></th>
   </tr>
+  <tr>
+    <th valign="bottom" align="center"><a href="no_matter_the_wreckage.html">No Matter the Wreckage: Sarah Kay </a></p>
+      <p><a href="no_matter_the_wreckage.html"><img src="Media/no_matter.jpg" width="111" height="167" /></a></p></th>
+     <th valign="bottom" align="center"><a href="invitation_to_a_beheading.html">Invitation to a Beheading: Vladmir Nabokov </a></p>
+      <p><a href="invitation_to_a_beheading.html"><img src="Media/invitationtoabeheading.gif" width="111" height="167" /></a></p></th>
+    <th valign="top" align="center">&nbsp;</th>
+  </tr>
   <!-- <tr>
     <th valign="top" align="center">&nbsp;</th>
     <th valign="top" align="center">&nbsp;</th>
