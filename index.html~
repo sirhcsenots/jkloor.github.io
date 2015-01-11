@@ -18,6 +18,12 @@
       <th width="33%" valign="bottom" align="center"><a href="play_it_as_it_lays.html">Play It As It Lays: Joan Didion </a>
         <p><a href="play_it_as_it_lays.html"><img src="Media/play_it_as_it_lays.jpg" width="111" height="167" /></a></p></th>
     </tr>
+    <tr>
+     <th width="33%" valign="bottom" align="center"><a href="wind_sand_stars.html">Wind, Sand and Stars: Antoine De Saint Exupery </a>
+        <p><a href="wind_sand_stars.html"><img src="Media/wind_sand_stars.jpg" width="111" height="167" border="1" /></a></p></th>
+    <th valign="top" align="center">&nbsp;</th>
+    <th valign="top" align="center">&nbsp;</th>
+  </tr> 
     <!-- <tr>
     <th valign="top" align="center">&nbsp;</th>
     <th valign="top" align="center">&nbsp;</th>
