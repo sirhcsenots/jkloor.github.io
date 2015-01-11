@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Template</title>
+</head>
+<center>
+<link href="style.css" rel="stylesheet" type="text/css">
+<body>
+<center>
+<p><a href="index.html"><img src="Media/banner_2015.jpg" width="980" height="460" /></a></p>
+<img src="Media/wind_sand_stars.jpg" alt="Wind, Sand and Stars" align="left" vspace="10" hspace="15" />
+<p> <sectionhead><em> Wind, Sand and Stars </em></sectionhead> </p>
+
+<p align="left">
+The exciting realism of air adventure - through the treacherous passes of the Pyrenees, above the Sahara, along the snowy
+ramparts of the Andes - combined with lyrical prose and the soaring spirit of a philosopher, makes these memoirs one of the 
+most popular books about flying every written. The author was a pioneer pilot in commercial aviation. During World War II he
+served in a French air squadron and in the summer of 1944 disappeared over the Mediterranean while returning from a reconnaissance
+mission. He has been called "the Joseph Conrad of the air", and this account of his experiences received the Grand Prix of the 
+Academie Francaise. <br />
+<br />
+Quotes: </br>
+</br>
+"When by mutation a new rose is born in a garden, all the gardeners rejoice. They isolate the rose, tend it, foster it. 
+But there is no gardener for men..." <br />
+<br />
+"Some indeed were well taught, but no one took the time to cultivate them" </br>
+</br>
+"That incense of an old library that is worth all the perfumes in the world"</br>
+</br>
+"What I went through no animal would have gone through"
+<p>
+
+
+</center>
+<p>&nbsp;</p>
+ <div align="center">
+<hr />
+<p><font color="#999999">&copy; JKloor 2015 Books</font></p>
+</body>
+</html>
+
