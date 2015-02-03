@@ -34,6 +34,13 @@
     <th width="33%" valign="bottom" align="center"><a href="wizard.html">Wizard: John Varley </a>
         <p><a href="wizard.html"><img src="Media/wizard.jpg" width="111" height="167" border="1" /></a></p></th>
   </tr>
+  <tr>
+    <th width="33%" valign="bottom" align="center"><a href="new_philosopher.html">New Philosopher: Issue 5 </a>
+        <p><a href="new_philosopher.html"><img src="Media/new_philosopher.jpg" width="111" height="167" border="1" /></a></p></th>
+    <th width="33%" valign="bottom" align="center"><a href="the_shallows.html">The Shallows: What the Internet is Doing to Our Brains: Nicholas Carr</a>
+        <p><a href="the_shallows.html"><img src="Media/the_shallows.jpg" width="111" height="167" border="1" /></a></p></th>
+    <th valign="top" align="center">&nbsp;</th>
+  </tr>
     <!-- <tr>
     <th valign="top" align="center">&nbsp;</th>
     <th valign="top" align="center">&nbsp;</th>
