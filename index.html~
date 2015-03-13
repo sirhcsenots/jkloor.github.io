@@ -71,6 +71,13 @@
         <p><a href="many_alarm_clocks.html"><img src="Media/many_alarm_clocks.png" width="111" height="167" border="1" /></a></p></th>
     <th width="33%" valign="bottom" align="center"><a href="brooklyn.html">Brooklyn: Colm Toibin</a>
         <p><a href="brooklyn.html"><img src="Media/brooklyn.jpg" width="111" height="167" border="1" /></a></p></th>
+    <th width="33%" valign="bottom" align="center"><a href="tkam.html">To Kill a Mockingbird: Harper Lee</a>
+        <p><a href="tkam.html"><img src="Media/tkam.jpg" width="111" height="167" border="1" /></a></p></th>
+  </tr>
+  <tr>
+    <th width="33%" valign="bottom" align="center"><a href="walden_two.html">Walden Two: B.F. Skinner</a>
+        <p><a href="walden_two.html"><img src="Media/walden_two.png" width="111" height="167" border="1" /></a></p></th>
+    <th valign="top" align="center">&nbsp;</th>
     <th valign="top" align="center">&nbsp;</th>
   </tr>
     <!-- <tr>

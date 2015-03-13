@@ -1,0 +1,41 @@
+BODY   {
+	margin: auto;
+	color: black;
+	font-size: 14px;
+	line-height: 18px;
+	max-width: 1000px;
+	font-family: Garamond;
+	font-weight: normal;
+	background-color: #FFFFFF;
+	display: block;
+}
+
+B, default {
+   font-weight : normal; 
+	}
+
+B, sectionhead {
+   font-weight : normal;
+   font-size: 24px;
+   font-family: Courier New;
+	}
+	
+A:visited {
+	font-weight : normal;
+	text-decoration : none;
+	color: black;
+	}
+
+A:link {
+	font-weight : normal;
+	text-decoration : none;
+	color: black;
+	}
+
+
+A:hover  { text-decoration: underline; }
+
+table {margin:0;
+	   border-collapse: collapse;
+	   padding:0;
+	   }​
