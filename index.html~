@@ -9,6 +9,7 @@
 <body>
 <center>
   <p><a href="index.html"><img src="Media/banner_2015.jpg" width="980" height="460" /></a></p>
+  <page>
   <table width="95%" border="0">
     <tr>
       <th width="33%" valign="bottom" align="center"><a href="2014.html">2014 Books </a>
@@ -79,7 +80,8 @@
         <p><a href="walden_two.html"><img src="Media/walden_two.jpg" width="111" height="167" border="1" /></a></p></th>
     <th width="33%" valign="bottom" align="center"><a href="bridge_called_my_back.html">This Bridge Called My Back: Moraga & Anzaldua</a>
         <p><a href="bridge_called_my_back.html"><img src="Media/bridge_called_my_back.jpg" width="111" height="167" border="1" /></a></p></th>
-    <th valign="top" align="center">&nbsp;</th>
+    <th width="33%" valign="bottom" align="center"><a href="conquest_of_happiness.html">The Conquest of Happiness: Bertrand Russell</a>
+        <p><a href="conquest_of_happiness.html"><img src="Media/conquest_of_happiness.jpg" width="111" height="167" border="1" /></a></p></th>
   </tr>
     <!-- <tr>
     <th valign="top" align="center">&nbsp;</th>
@@ -87,6 +89,7 @@
     <th valign="top" align="center">&nbsp;</th>
   </tr> -->
   </table>
+  </page>
 </center>
 <p>&nbsp;</p>
 <div align="center">

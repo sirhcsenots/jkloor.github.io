@@ -4,7 +4,18 @@ BODY   {
 	font-size: 14px;
 	line-height: 18px;
 	max-width: 1000px;
-	font-family: Garamond;
+	font-family: Courier New;
+	font-weight: normal;
+	background-color: #EFEFD1;
+	display: block;
+}
+page   {
+	margin: auto;
+	color: black;
+	font-size: 14px;
+	line-height: 18px;
+	max-width: 1000px;
+	font-family: Courier New;
 	font-weight: normal;
 	background-color: #FFFFFF;
 	display: block;
