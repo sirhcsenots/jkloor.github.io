@@ -9,7 +9,6 @@
 <body>
 <center>
   <p><a href="index.html"><img src="Media/banner_2015.jpg" width="980" height="460" /></a></p>
-  <page>
   <table width="95%" border="0">
     <tr>
       <th width="33%" valign="bottom" align="center"><a href="2014.html">2014 Books </a>
@@ -89,7 +88,6 @@
     <th valign="top" align="center">&nbsp;</th>
   </tr> -->
   </table>
-  </page>
 </center>
 <p>&nbsp;</p>
 <div align="center">
