@@ -4,7 +4,7 @@ BODY   {
 	font-size: 14px;
 	line-height: 18px;
 	max-width: 1000px;
-	font-family: Courier New;
+	font-family: Georgia;
 	font-weight: normal;
 	background-color: #FFFFFF;
 	display: block;
@@ -15,7 +15,7 @@ page   {
 	font-size: 14px;
 	line-height: 18px;
 	max-width: 1000px;
-	font-family: Courier New;
+	font-family: Georgia;
 	font-weight: normal;
 	background-color: #FFFFFF;
 	display: block;
@@ -28,7 +28,7 @@ B, default {
 B, sectionhead {
    font-weight : normal;
    font-size: 24px;
-   font-family: Courier New;
+   font-family: Georgia;
 	}
 	
 A:visited {
