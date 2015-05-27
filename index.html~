@@ -98,6 +98,13 @@
     <th width="33%" valign="bottom" align="center"><a href="new_philosopher_health.html">New Philosopher: Health </a>
         <p><a href="new_philosopher_health.html"><img src="Media/new_philosopher_health.png" width="111" height="167" border="1" /></a></p></th>
   </tr>
+  <tr>
+    <th width="33%" valign="bottom" align="center"><a href="demon.html">Demon: John Varley </a>
+        <p><a href="demon.html"><img src="Media/demon.jpg" width="111" height="167" border="1" /></a></p></th>
+	<th width="33%" valign="bottom" align="center"><a href="year_of_magical_thinking.html">The Year of Magical Thinking: Joan Didion </a>
+        <p><a href="year_of_magical_thinking.html"><img src="Media/year_of_magical_thinking.jpg" width="111" height="167" border="1" /></a></p></th>
+    <th valign="top" align="center">&nbsp;</th>
+  </tr> 
     <!-- <tr>
     <th valign="top" align="center">&nbsp;</th>
     <th valign="top" align="center">&nbsp;</th>
