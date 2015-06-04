@@ -10,7 +10,7 @@
 <body>
 <center>
   <p><a href="index.html"><img src="Media/banner_2015.jpg" width="980" height="460" /></a></p>
-  <table width="85%" border="0">
+  <table width="95%" border="0">
     <tr>
       <th width="33%" valign="bottom" align="center"><a href="2014.html">2014 Books </a>
         <p><a href="2014.html"><img src="Media/2014_Books.png" width="111" height="167" border="1" /></a></p></th>
@@ -102,12 +102,8 @@
   <tr>
     <th width="33%" valign="bottom" align="center"><a href="demon.html">Demon: John Varley </a>
         <p><a href="demon.html"><img src="Media/demon.jpg" width="111" height="167" border="1" /></a></p></th>
-<<<<<<< HEAD
-    <th valign="top" align="center">&nbsp;</th>
-=======
 	<th width="33%" valign="bottom" align="center"><a href="year_of_magical_thinking.html">The Year of Magical Thinking: Joan Didion </a>
         <p><a href="year_of_magical_thinking.html"><img src="Media/year_of_magical_thinking.jpg" width="111" height="167" border="1" /></a></p></th>
->>>>>>> 87258426511cd8606f227d0112a6a8ed027d03cf
     <th valign="top" align="center">&nbsp;</th>
   </tr> 
     <!-- <tr>
