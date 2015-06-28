@@ -106,6 +106,12 @@
     <th width="33%" valign="bottom" align="center"><a href="stories_of_your_life.html">Stories of Your Life: Ted Chiang </a>
         <p><a href="stories_of_your_life.html"><img src="Media/story_of_your_life.jpg" width="111" height="167" border="1" /></a></p></th>
   </tr> 
+  <tr>
+	<th width="33%" valign="bottom" align="center"><a href="gender_trouble.html">Gender Trouble: Judith Butler </a>
+        <p><a href="gender_trouble.html"><img src="Media/gender_trouble.jpg" width="111" height="167" border="1" /></a></p></th>
+    <th valign="top" align="center">&nbsp;</th>
+    <th valign="top" align="center">&nbsp;</th>
+  </tr>
     <!-- <tr>
     <th valign="top" align="center">&nbsp;</th>
     <th valign="top" align="center">&nbsp;</th>
