@@ -122,6 +122,12 @@
     <th width="33%" valign="bottom" align="center"><a href="green_mars.html">Green Mars: Kim Stanley Robinson </a>
         <p><a href="green_mars.html"><img src="Media/green_mars.jpg" width="111" height="167" border="1" /></a></p></th>
   </tr>
+  <tr>
+    <th width="33%" valign="bottom" align="center"><a href="professor_madman.html">The Professor and the Madman: Simon Winchester </a>
+        <p><a href="professor_madman.html"><img src="Media/professor_madman.jpg" width="111" height="167" border="1" /></a></p></th>
+ 	 <th width="33%" valign="bottom" align="center"> </th>
+    <th width="33%" valign="bottom" align="center"> </th>
+  </tr>
     <!-- <tr>
     <th valign="top" align="center">&nbsp;</th>
     <th valign="top" align="center">&nbsp;</th>
