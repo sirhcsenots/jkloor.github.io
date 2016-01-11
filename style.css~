@@ -3,7 +3,7 @@ BODY   {
 	color: black;
 	font-size: 15px;
 	line-height: 18px;
-	max-width: 1000px
+	max-width: 1200px;
 	font-family: Georgia;
 	font-weight: normal;
 	background-color: #FFFFFF;
@@ -14,7 +14,7 @@ page   {
 	color: black;
 	font-size: 15px;
 	line-height: 18px;
-	max-width: 1000px;
+	max-width: 1200px;
 	font-family: Georgia;
 	font-weight: normal;
 	background-color: #FFFFFF;

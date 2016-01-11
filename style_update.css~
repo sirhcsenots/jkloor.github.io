@@ -3,8 +3,8 @@ BODY   {
 	color: black;
 	font-size: 16px;
 	line-height: 18px;
-	max-width: 1000px;
-	font-family: Helvetica;
+	max-width: 1200px;
+	font-family: Georgia, serif;
 	font-weight: normal;
 	background-color: #FFFFFF;
 	display: block;
@@ -14,8 +14,8 @@ page   {
 	color: black;
 	font-size: 16px;
 	line-height: 18px;
-	max-width: 1000px;
-	font-family: Helvetica;
+	max-width: 1200px;
+	font-family: Georgia, serif;
 	font-weight: normal;
 	background-color: #FFFFFF;
 	display: block;
