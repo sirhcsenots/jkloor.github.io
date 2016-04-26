@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ 
+<html>
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app7.us.archive.org";archive_analytics.values.server_ms=975;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+<title>Webpages as graphs - an HTML DOM Visualizer Applet</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="/web/20120720032349cs_/http://www.aharef.info/styles-site.css" type="text/css" />
+<style type="text/css">
+<!--
+
+#content { 	
+  height:600px; 
+  width:600px;
+  border: 1px dotted gray;
+}
+
+#bigTitle { 	
+  font-family:"Arial";
+  font-size:300%;
+  font-weight:bold;
+  color:#006699;
+}
+.myBox
+{
+    margin: 0 auto;
+    border: 0px solid #ffffff;
+    color: #333333;
+    width: 60%;
+    padding: 20px;
+    text-align: left;
+    background-color: #eeeeee;
+    border: 2px solid #999999;
+}
+
+html,body{
+    height: 100%;
+    text-align: center;
+  	font: 12px 'Lucida Grande', Geneva, Verdana, Arial, sans-serif; 
+	line-height:20px;
+    margin: 0px;
+}
+-->
+</style>
+ 
+</head>
+
+<body>
+
+ <br/><br/><br/><br/><br/><br/><br/><br/><span id="bigTitle">Webpages as Graphs</span><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+ <form method="get" action="">
+ 	Webpage Address:<input type="text" size="50" name="url" value="http://"/><br/>
+ 	<center><span style="color:gray">(must start with http://)</span></center>
+ 	<br/></br/>
+ 	<span style="color:red">Note: This will take you to a page with a java applet.<br/>It may take some time to load, so please be patient.</span>
+ 	<br/><br/><input type="hidden"name="study" value="yes"/>
+ 	<input type="submit" value="Show me the graph"/>
+ </form>
+<!--
+<center>
+<div style="width: 550px; border:1px #666666 solid; margin-top: 45px; padding: 5px;">
+You can support this site by checking out Fernando Luis Lara's incredible artproject <a href="/web/20120720032349/http://www.365specialdays.com">365specialdays.com</a>
+<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/web/20120720032349/http://www.365specialdays.com"><img src="/web/20120720032349/http://www.365specialdays.com/global/imgs/logo.gif" border="0"/></a>
+<br/><br/>
+</div>
+</center>
+-->
+ 
+ 
+</body>
+</html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 3:23:49 Jul 20, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 3:15:53 Apr 26, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+
