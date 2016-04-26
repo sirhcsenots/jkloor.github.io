@@ -6,7 +6,8 @@
 <head>
 
 
-
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app0.us.archive.org";archive_analytics.values.server_ms=304;</script>
 <link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
 
 
@@ -78,4 +79,17 @@ Built with <a href="/web/20070502143938/http://processing.org/" title="Processin
  
 </body>
 </html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 14:39:38 May 2, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 3:00:16 Apr 26, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
 
