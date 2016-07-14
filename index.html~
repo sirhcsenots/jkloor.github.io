@@ -43,8 +43,8 @@
   <tr>
     <th width="33%" valign="bottom" align="center"><a href="seveneves.html">Seveneves: Neal Stephenson </a>
         <p><a href="seveneves.html"><img src="Media/seveneves.jpg" width="111" height="167" border="1" /></a></p>
-    <th valign="top" align="center">&nbsp;</th>
-    <th valign="top" align="center">&nbsp;</th>
+    <th width="33%" valign="bottom" align="center"><a href="a_wild_sheep_chase.html">A Wild Sheep Chase: Haruki Murakami </a><p><a href="a_wild_sheep_chase.html"><img src="Media/a_wild_sheep_chase.jpg" width="111" height="167" border="1" /></a></p>
+    <th width="33%" valign="bottom" align="center"><a href="new_philosopher_education.html">New Philosopher: Education </a><p><a href="new_philosopher_education.html"><img src="Media/new_philosopher_education.jpg" width="111" height="167" border="1" /></a></p>
   </tr>
     <!-- <tr>
     <th valign="top" align="center">&nbsp;</th>
