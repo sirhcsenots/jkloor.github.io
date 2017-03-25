@@ -2,15 +2,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Template</title>
+<title>Bleeding Edge</title>
 </head>
 <center>
 <link href="style.css" rel="stylesheet" type="text/css">
 <body>
 <center>
 <p><a href="index.html"><img src="Media/banner_2016.png" width="980" height="460" /></a></p>
-<img src="Media/placeholder.jpg" alt="Book Title Here" align="left" vspace="10" hspace="15" />
-<p> <sectionhead><em> Book Title Here </em></sectionhead> </p>
+<img src="Media/bleeding_edge.jpg" alt="Bleeding Edge" align="left" vspace="10" hspace="15" />
+<p> <sectionhead><em> Bleeding Edge </em></sectionhead> </p>
 
 <p align="left">
 
@@ -21,7 +21,7 @@
 <p>&nbsp;</p>
  <div align="center">
 <hr />
-<p><font color="#999999">&copy; JKloor 2016 Books</font></p>
+<p><font color="#999999">&copy; JKloor Books</font></p>
 </body>
 </html>
 
